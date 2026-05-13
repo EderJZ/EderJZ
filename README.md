@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Eder 👋
 
-<!--
-**EderJZ/EderJZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação focado em Python e Desenvolvimento Web
 
-Here are some ideas to get you started:
+🚀 Atualmente estudando:
+- Python
+- Flask
+- HTML/CSS/JavaScript
+- Automação
+- APIs REST
+- Redes e Infraestrutura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Projetos em desenvolvimento:
+- Sistema Web com Flask
+- Automação com Python
+- Extração de dados XML
+- Dashboard Web
+
+🎯 Objetivo:
+Conquistar minha primeira oportunidade como Desenvolvedor Júnior.
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/eder-joffre-zanardini-medina-67b2681bb/
