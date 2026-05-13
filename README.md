@@ -1,33 +1,86 @@
-# Olá, eu sou Eder 👋
+<h1 align="center">Olá, eu sou Eder 👋</h1>
 
+<p align="center">
 💻 Desenvolvedor em formação focado em Python, React e Desenvolvimento Web
+</p>
 
-🚀 Atualmente estudando:
+<p align="center">
+🚀 Estudando automação, APIs REST, frontend e backend
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudando desenvolvimento web e programação
+- 💡 Interesse em Backend, Frontend e Automação
+- 🐍 Focado em Python, Flask e React
+- 🌐 Desenvolvendo projetos práticos para portfólio
+- 📚 Sempre aprendendo novas tecnologias
+- 🎯 Buscando minha primeira oportunidade como Desenvolvedor Júnior
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,git,vscode" />
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🔗 DevLinks
+Agregador de links responsivo desenvolvido como cartão de visitas online.
+
+### ⚙️ Automação com Python
+Scripts para automação de tarefas e manipulação de dados.
+
+### 🌐 API REST com Flask
+Projeto backend para prática de APIs REST e integração com banco de dados.
+
+### 💻 Dashboard React
+Interface moderna utilizando React e JavaScript.
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EderJZ&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderJZ&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
 - Python
 - Flask
 - React
-- HTML/CSS/JavaScript
-- Automação
 - APIs REST
+- JavaScript
+- HTML/CSS
+- Git e GitHub
+- Automação
 - Redes e Infraestrutura
 
-📚 Projetos em desenvolvimento:
-- Sistema Web com Flask
-- Dashboard em React
-- Automação com Python
-- Extração de dados XML
+---
 
-🎯 Objetivo:
-Conquistar minha primeira oportunidade como Desenvolvedor Júnior.
+## 🌎 Contato
 
-## Tecnologias
+<p align="left">
+  <a href="https://www.linkedin.com/in/eder-joffre-zanardini-medina-67b2681bb/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-## Contato
-- LinkedIn: https://www.linkedin.com/in/eder-joffre-zanardini-medina-67b2681bb/
+<div align="center">
+
+✨ “Sempre aprendendo novas tecnologias e construindo projetos.” ✨
+
+</div>
