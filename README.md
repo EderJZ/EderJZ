@@ -14,7 +14,7 @@
 
 - 🎓 Estudando desenvolvimento web e programação
 - 💡 Interesse em Backend, Frontend e Automação
-- 🐍 Focado em Python, Flask e React
+- 🐍 Focado em Python, Flask, node e React
 - 🌐 Desenvolvendo projetos práticos para portfólio
 - 📚 Sempre aprendendo novas tecnologias
 - 🎯 Buscando minha primeira oportunidade como Desenvolvedor Júnior
