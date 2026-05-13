@@ -73,7 +73,3 @@ Interface moderna utilizando React e JavaScript.
 
 ✨ “Sempre aprendendo novas tecnologias e construindo projetos.” ✨
 
-</div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EderJZ&show_icons=true&theme=radical" />
-</p>
